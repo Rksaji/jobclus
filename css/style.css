@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+  
+}
+.menu-bar{
+background-color: rgb(190, 167, 167);  
+}
+.nav-link{
+    color:white;
+}
